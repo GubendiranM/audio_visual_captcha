@@ -1,0 +1,8 @@
+/**
+ * Created with JetBrains WebStorm.
+ * User: EMDnew
+ * Date: 19/04/17
+ * Time: 13:04
+ * To change this template use File | Settings | File Templates.
+ */
+var audio = [{"id": "1","question_name": "how much of two plus two","answer": "4"}, {"id": "2","question_name": "how much of twice of eight","answer": "16"}, {"id": "3","question_name": "how much of thrice of three","answer": "9"}, {"id": "4","question_name": "how much of five plus five","answer": "10"}, {"id": "5","question_name": "how much of ninety nine plus one","answer": "100"}, {"id": "6","question_name": "how much of fifty plus fifty","answer": "100"}, {"id": "7","question_name": "how much of ninety minus 1","answer": "89"}, {"id": "8","question_name": "how much of twenty plus twenty","answer": "40"}, {"id": "9","question_name": "how much of forty eight plus two","answer": "50"}, {"id": "10","question_name": "how much of one plus fifty","answer": "51"}, {"id": "11","question_name": "how much of two minu two","answer": "0"}, {"id": "12","question_name": "how much of thrice of eight","answer": "24"}, {"id": "13","question_name": "how much of twice of three","answer": "6"}, {"id": "14","question_name": "how much of five minus two","answer": "3"}, {"id": "15","question_name": "how much of ninety nine minus one","answer": "98"}, {"id": "16","question_name": "how much of fifty plus ten","answer": "600"}, {"id": "17","question_name": "how much of hundred minus 1","answer": "99"}, {"id": "18","question_name": "how much of twenty minus ten","answer": "10"}, {"id": "19","question_name": "how much of ninety eight plus two","answer": "100"}, {"id": "20","question_name": "how much of nine plus one","answer": "10"}]
